@@ -1,0 +1,43 @@
+/* Main containers : adding a background image to center*/
+#pane{
+    -fx-background-image:url("wallpaper.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+/* BoardGame Section*/
+#gridPane{
+    -fx-border-color: black;
+    -fx-border-width: 5px;
+}
+
+
+
+/* Slider Section */
+#slider .thumb, #slider .axis .tick-mark{
+    -fx-background-color: white;
+}
+
+#slider .track{
+    -fx-background-color: blue;
+}
+
+/*Validate Button Section*/
+
+#button{
+    -fx-background-color: none;
+    -fx-text-fill: #18b131;
+    -fx-border-radius: 15%;
+    -fx-border-color: #18b131;
+    -fx-font-size: 14px;
+    -fx-border-width: 2px;
+    -fx-text-align: center;
+}
+
+#button:hover{
+
+    -fx-border-color: blue;
+    -fx-text-fill: blue;
+}
+
+
