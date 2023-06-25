@@ -1,8 +1,6 @@
 # CyPath
 Répertoire du projet logiciel CyPath
 
-Lien Trello (utilisé uniquement au début du projet pour dégrossir les étapes du projet) : https://trello.com/b/Rxa3Cuod/cypath\
-
 # Pour compiler le projet :
 - Assurez vous d'avoir installé JavaFX (Version 17.0.7 ou plus récent).
 - Ouvrir IntelliJ.
